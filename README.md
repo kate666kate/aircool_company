@@ -1,5 +1,7 @@
 # aircool_company
 
+![Website Image](images/website.png)
+
 Installation and Usage
 1. Download or clone this repository.
 2. Open the index.html file in your browser.
